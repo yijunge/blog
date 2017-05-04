@@ -1,5 +1,8 @@
-Cu-Gr Interface Thermal Transport
-=================================
+---
+layout: post
+title: Cu Gr Interface
+---
+
 ## Bulk Cu (fcc) relaxation
 
 - Structure: fcc (1 atom unit cell)
