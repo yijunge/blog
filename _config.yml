@@ -6,14 +6,14 @@ permalink:           pretty
 # Setup
 title:               Yijun Ge's blog
 tagline:             ''
-url:                 https://github.com/yijunge/blog
+url:                 https://yijungepurdue.com
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
   name:              Yijun Ge
-  url:               https://github.com/yijunge
+  url:               https://yijungepurdue.com
   email:             yijungehust@gmail.com
 
 # Custom vars
