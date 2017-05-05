@@ -6,8 +6,7 @@ permalink:           pretty
 # Setup
 title:               Yijun Ge's blog
 tagline:             ''
-url:                 ''
-baseurl:             yijungepurdue.com
+url:                 https://yijungepurdue.com
 paginate:            5
 
 # About/contact
