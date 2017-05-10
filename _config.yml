@@ -20,3 +20,8 @@ version:             1.0.0
 
 github:
   repo: https://github.com/yijunge/blog
+
+markdown: kramdown
+kramdown: 
+ input: GFM
+  
