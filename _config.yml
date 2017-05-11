@@ -2,7 +2,7 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-description:  This blog is only intended for marking down notes while learning.
+description:  This blog is only intended to  mark down notes while learning.
 markdown: kramdown
 # Setup
 title:               Yijun Ge's blog
