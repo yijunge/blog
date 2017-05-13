@@ -7,7 +7,7 @@ markdown: kramdown
 # Setup
 title:               Yijun Ge's blog
 tagline:             '         To learn'
-url:                 https://yijungepurdue.com
+url:                 http://yijungepurdue.com
 paginate:            5
 
 # About/contact
