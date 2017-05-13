@@ -3,6 +3,7 @@ layout: post
 title: vue basics
 excerpt_separator: <!--more-->
 category: htmls
+comments: true
 ---
 ### Simple examples
 [starting with Vuejs](http://codepen.io/hsolatges/post/starting-with-vuejs-2)
