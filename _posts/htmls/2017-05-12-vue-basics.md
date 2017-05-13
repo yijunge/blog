@@ -1,6 +1,6 @@
 ---
 layout: post
-title: html
+title: vue basics
 excerpt_separator: <!--more-->
 category: htmls
 ---

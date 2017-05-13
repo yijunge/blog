@@ -97,6 +97,7 @@ h2 {
 h3 {
   margin-top: 1.5rem;
   font-size: 1.25rem;
+  color: #cc7c7c
 }
 h4, h5, h6 {
   margin-top: 1rem;
@@ -311,7 +312,7 @@ tbody tr:nth-child(odd) th {
   color: #505050;
 }
 .masthead-title a {
-  color: #505050;
+  color: #cc7c7c;
 }
 .masthead-title small {
   font-size: 75%;
@@ -331,13 +332,14 @@ tbody tr:nth-child(odd) th {
 .page,
 .post {
   margin-bottom: 4em;
+  border-bottom: 1px solid #505050
 }
 
 /* Blog post or page title */
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color:  #0a65af;
 }
 .page-title,
 .post-title {
@@ -349,7 +351,7 @@ tbody tr:nth-child(odd) th {
   display: block;
   margin-top: -.5rem;
   margin-bottom: 1rem;
-  color: #9a9a9a;
+  color: #666464;
 }
 
 /* Related posts */
