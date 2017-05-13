@@ -6,7 +6,7 @@ description:  This blog is only intended to  mark down notes while learning.
 markdown: kramdown
 # Setup
 title:               Yijun Ge's blog
-tagline:             ''
+tagline:             'To learn'
 url:                 https://yijungepurdue.com
 paginate:            5
 
