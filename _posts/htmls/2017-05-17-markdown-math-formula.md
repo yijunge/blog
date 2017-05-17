@@ -33,6 +33,6 @@ $$ a^2+b^2=3 $$
 ```
 Github will render the formula correctly for you.
 
-**Note:** Maxjax syntax is not the same as Latex. Maxjax uses **$$** instead of **$** for equations.  
+**Note:** Maxjax syntax is not the same as Latex. Maxjax uses **$$** for displayed equations and uses **$** for inline equations.  
 
 [Maxjax official documentation](https://www.mathjax.org/#features)
