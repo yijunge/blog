@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Insert Math formula in github markdown files
+title: Math formula in github markdown files
 category: htmls
 comments: true
 excerpt_separator: <!--more-->
@@ -15,6 +15,7 @@ choose svg format.
 ``` html
 <img src="https://latex.codecogs.com/svg.latex?a^2&plus;b^2=3" title="a^2+b^2=3" />
 ```
+<!--more-->
 Which generates:
 
 <img src="https://latex.codecogs.com/svg.latex?a^2&plus;b^2=3" title="a^2+b^2=3" />
