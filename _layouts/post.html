@@ -8,7 +8,7 @@ layout: default
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}
   {% if page.comments %}
-  &middot <a href="http://yijungepurdue.com{{ page.url }}#disqus_thread"> 0 Comments </a>
+  &middot <i class="material-icons md-18">comment</i><a href="http://yijungepurdue.com{{ page.url }}#disqus_thread" style="font-size:18px;"> 0 Comments </a>
   {% endif %}
   </span>
   {{ content }}
