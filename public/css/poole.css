@@ -65,6 +65,20 @@ body {
       -ms-text-size-adjust: 100%;
 }
 
+.readmore {
+padding: 0 6px;
+border: 2px solid black;
+margin: 10px 10px;
+background-color:white;
+text-align: center;
+font-size: 24px;
+}
+
+.readmore a:hover {
+background-color: black;
+color: white;
+}
+
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
   color: #268bd2;
