@@ -328,6 +328,7 @@ a.sidebar-nav-item:focus {
 
 .page,
 .post {
+  width: 600px;
   padding: 6px;
   margin-bottom: 40px;
   border: 1px solid #eee;
