@@ -328,9 +328,9 @@ a.sidebar-nav-item:focus {
 
 .page,
 .post {
-  margin-bottom: 4em;
   padding: 6px;
-  border-bottom: 0.5px solid #aeb1b2
+  border: 1px solid #eee;
+  background-color: #fff;
 }
 
 /* Blog post or page title */
