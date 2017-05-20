@@ -354,7 +354,7 @@ tbody tr:nth-child(odd) th {
 
 .page,
 .post {
-  width: 600 px;
+  width: 800 px;
   display: inline-block;
   margin-bottom: 40px;
   padding: 6px;
