@@ -329,9 +329,11 @@ a.sidebar-nav-item:focus {
 .page,
 .post {
   padding: 6px;
+  margin-bottom: 40px;
   border: 1px solid #eee;
   background-color: #fff;
 }
+
 
 /* Blog post or page title */
 .page-title,
