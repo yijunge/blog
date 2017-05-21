@@ -326,7 +326,7 @@ tbody tr:nth-child(odd) th {
 
 .masthead {
   padding-top:    1rem;
-  padding-bottom: 3rem;
+  padding-bottom: 2rem;
 }
 .masthead-title {
   margin-top: 0;
@@ -353,7 +353,7 @@ tbody tr:nth-child(odd) th {
 
 .page,
 .post {
-  width: 800 px;
+  width: 600 px;
   display: inline-block;
   margin-bottom: 40px;
   padding: 6px;
