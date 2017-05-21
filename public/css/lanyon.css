@@ -112,10 +112,13 @@ color: white;
  * Super small header above the content for site name and short description.
  */
 
+.contact {
+ border-bottom: 1px solid #efbdbd;
+ padding-bottom: 1rem;
+}
 .masthead {
   padding-top:    1rem;
-  padding-bottom: 2rem;
-  border-bottom: 1px solid #efbdbd;
+  padding-bottom: 0rem;
 }
 .masthead-title {
   margin-top: 0;
