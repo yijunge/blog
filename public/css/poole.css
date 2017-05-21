@@ -323,10 +323,14 @@ tbody tr:nth-child(odd) th {
  *
  * Super small header above the content for site name and short description.
  */
+.contact {
+ border-bottom: 1px solid #efbdbd;
+ padding-bottom: 3rem;
+}
 
 .masthead {
   padding-top:    1rem;
-  padding-bottom: 2rem;
+  padding-bottom: 0rem;
 }
 .masthead-title {
   margin-top: 0;
@@ -357,6 +361,7 @@ tbody tr:nth-child(odd) th {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 40px;
+  margin-top: 6px;
   padding: 6px;
   border: 1px solid #eee;
   background-color: #fff;

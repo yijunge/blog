@@ -114,7 +114,7 @@ color: white;
 
 .contact {
  border-bottom: 1px solid #efbdbd;
- padding-bottom: 1rem;
+ padding-bottom: 3rem;
 }
 .masthead {
   padding-top:    1rem;
@@ -331,6 +331,7 @@ a.sidebar-nav-item:focus {
 .page,
 .post {
   padding: 6px;
+  margin-top: 6px;
   margin-bottom: 40px;
   margin-left: auto;
   margin-right: auto;
