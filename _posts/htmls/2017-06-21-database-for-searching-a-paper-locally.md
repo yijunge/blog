@@ -10,7 +10,7 @@ I always find it difficult to find a paper downloaded a while ago and  I don't w
 <!--more-->
 The final page looks like this:
 
-![paper.php](https://github.com/yijunge/blog/blob/gh-pages/paper/paper.png)
+<img src="https://github.com/yijunge/blog/blob/gh-pages/paper/paper.png"></imag>
 
 First of all, to run a php file locally, use the command
 ```php
@@ -32,17 +32,62 @@ CREATE USER 'username@localhost' IDENTIFIED BY 'password';
 GRANT ALL PRIVILEGES ON *.* TO 'username@localhost';
 ```
 #### Some frequently used MySQL commands
-|Usage|Command|
-|-----|-------|
-|show all databases|SHOW DATABASES;|
-|create a database|CREATE DATABASE databasename;|
-|use a database|USE databasename;|
-|show all tables in a database|SHOW tables;|
-|create a table|CREATE TABLE tablename(column1, column2);|
-|show all columns|DESCRIBE tablename;|
-|add a record| INSERT INTO tablename (column1,column2) VALUES(value for column1,value for column2);|
-|delete a record| DELETE FROM tablename WHERE clause;|
-|delete a table|DROP tablename;|
-|add a column|ALTER TABLE tablename ADD COLUMN columnname datatype;|
-|delete a column|ALTER TABLE tablename DROP COLUMN columnname;|
-|find records|SELECT * FROM tablename WHERE clause;|
+
+<table>
+  <thead>
+    <tr>
+      <td>Usage</td>
+      <td>Command</td>
+    </tr>
+  </thead>
+<tbody>
+  <tr>
+    <td>show all databases </td>
+    <td> SHOW DATABASES; </td>
+  </tr>
+  <tr>
+    <td>create a database </td>
+    <td>CREATE DATABASE databasename; </td>
+  </tr>
+  <tr>
+    <td>use a database </td>
+    <td>USE databasename; </td>
+  </tr>
+  <tr>
+    <td>show all tables in a database </td>
+    <td>SHOW tables; </td>
+  </tr>
+  <tr>
+    <td> create a table</td>
+    <td> CREATE TABLE tablename(column1, column2);</td>
+  </tr>
+  <tr>
+    <td> show all columns</td>
+    <td> DESCRIBE tablename;</td>
+  </tr>
+  <tr>
+    <td> add a record</td>
+    <td> INSERT INTO tablename (column1,column2) VALUES(value for column1,value for column2);</td>
+  </tr>
+  <tr>
+    <td>delete a record </td>
+    <td>DELETE FROM tablename WHERE clause; </td>
+  </tr>
+  <tr>
+    <td> delete a table</td>
+    <td> DROP tablename;</td>
+  </tr>
+  <tr>
+    <td> add a column</td>
+    <td> ALTER TABLE tablename ADD COLUMN columnname datatype;</td>
+  </tr>
+  <tr>
+    <td> delete a column</td>
+    <td>ALTER TABLE tablename DROP COLUMN columnname; </td>
+  </tr>
+  <tr>
+    <td>find records </td>
+    <td> SELECT * FROM tablename WHERE clause;</td>
+  </tr>
+</tbody>
+</table>
