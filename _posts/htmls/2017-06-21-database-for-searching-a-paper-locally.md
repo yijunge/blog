@@ -10,7 +10,7 @@ I always find it difficult to find a paper downloaded a while ago and  I don't w
 <!--more-->
 The final page looks like this:
 
-<img src="https://github.com/yijunge/blog/blob/gh-pages/paper/paper.png">
+<img src="{{ site.url }}/paper/paper.png">
 
 First of all, to run a php file locally, use the command
 ```php
