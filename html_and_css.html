@@ -1,18 +1,18 @@
 ---
 layout: page
-title: html and css
+title: NOTES
 ---
 
 <div class="posts">
-  {% for html in site.categories.htmls %}
+  {% for note in site.categories.notes %}
       <div class="post">
         <h1 class="post-title">
-          <a href="{{ html.url }}">
-             {{ html.title }}
+          <a href="{{ note.url }}">
+             {{ note.title }}
           </a>
         </h1>
-        <span class="post-date">{{ html.date | date_to_string }}</span>
-        <p> <a href="{{html.url}}"> Read more </a></p> 
+        <span class="post-date">{{ note.date | date_to_string }}</span>
+        <p> <a href="{{note.url}}"> Read more </a></p> 
       </div>
   {% endfor %}
 </div>

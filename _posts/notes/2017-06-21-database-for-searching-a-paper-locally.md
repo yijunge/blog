@@ -2,7 +2,7 @@
 layout: post
 title: Database for searching a paper stored in my computer
 excerpt_separator: <!--more-->
-category: htmls
+category: notes
 comments: true
 ---
 I always find it difficult to find a paper downloaded a while ago and  I don't want to pay for commercial software, so I made a page using MySQL database with a php interface.

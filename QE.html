@@ -1,0 +1,19 @@
+---
+layout: page
+title: QE
+---
+
+<div class="posts">
+  {% for qe in site.categories.QE %}
+      <div class="post">
+        <h1 class="post-title">
+          <a href="{{ qe.url }}">
+             {{ qe.title }}
+          </a>
+        </h1>
+        <span class="post-date">{{ qe.date | date_to_string }}</span>
+        <p> <a href="{{qe.url}}"> Read more </a></p> 
+      </div>
+  {% endfor %}
+</div>
+

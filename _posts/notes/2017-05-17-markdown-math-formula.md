@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Math formula in github markdown files
-category: htmls
+category: notes
 comments: true
 excerpt_separator: <!--more-->
 ---

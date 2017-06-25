@@ -2,7 +2,7 @@
 layout: post
 title: vue basics
 excerpt_separator: <!--more-->
-category: htmls
+category: notes
 comments: true
 ---
 ### Simple examples
