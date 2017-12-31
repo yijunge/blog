@@ -15,3 +15,10 @@ Often encounter this error in vc-relaxation. The reason could be the starting ce
 &CELL
 cell_factor = 3 ! the default value is 2 for variable cell calculations, 1 for otherwise.
 ```
+### Error in Error in routine cdiaghg (983):
+<strong>problems computing cholesky</strong>
+<strong>Solution:</strong><br>
+```
+&electrons
+diagonalization = 'cg' ! change the default scheme 'david'
+```
