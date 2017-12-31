@@ -4,14 +4,14 @@ title:随笔
 ---
 
 <div class="posts">
-  {% for note in site.categories.notes %}
+  {% for suibi in site.categories.随笔 %}
       <div class="post">
         <h1 class="post-title">
-          <a href="{{ note.url }}">
+          <a href="{{ suibi.url }}">
              {{ note.title }}
           </a>
         </h1>
-        <span class="post-date">{{ note.date | date_to_string }}</span>
+        <span class="post-date">{{ suibi.date | date_to_string }}</span>
         <p> <a href="{{note.url}}"> Read more </a></p> 
       </div>
   {% endfor %}
