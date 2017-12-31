@@ -1,6 +1,6 @@
 ---
 layout: page
-title:随笔 
+title: 随笔 
 ---
 
 <div class="posts">
@@ -8,11 +8,11 @@ title:随笔
       <div class="post">
         <h1 class="post-title">
           <a href="{{ suibi.url }}">
-             {{ note.title }}
+             {{ suibi.title }}
           </a>
         </h1>
         <span class="post-date">{{ suibi.date | date_to_string }}</span>
-        <p> <a href="{{note.url}}"> Read more </a></p> 
+        <p> <a href="{{suibi.url}}"> Read more </a></p> 
       </div>
   {% endfor %}
 </div>
